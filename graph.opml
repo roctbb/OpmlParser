@@ -1,0 +1,425 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="1.0">
+<head>
+<title>Компьютерные науки</title>
+</head>
+<body>
+<outline text="Компьютерные науки"><outline text="Программная инженерия"><outline text="Управление проектами"><outline text=" Системы контроля версий"></outline>
+<outline text="Тестирование ПО"></outline>
+<outline text="Управление требованиями"></outline>
+<outline text="Agile"></outline>
+<outline text="Техническое задание"></outline>
+<outline text="Управление задачами"></outline>
+<outline text="Прототипирование интерфейса"></outline>
+</outline>
+<outline text="Системное администрирование"><outline text="Bash"><outline text="Фоновое выполнение программ"></outline>
+<outline text="Работа с файловой системой"></outline>
+<outline text="Управление правами"></outline>
+<outline text="Управление пользователями"></outline>
+</outline>
+<outline text="VPS"></outline>
+<outline text="CRON"></outline>
+<outline text="SSH"></outline>
+<outline text="Apache"></outline>
+<outline text="Nginx"></outline>
+</outline>
+<outline text="Технологии программирования"><outline text="Языки разметки"><outline text="JSON"></outline>
+<outline text="XML"></outline>
+<outline text="HTML"><outline text="Структура HTML страницы"></outline>
+<outline text="Текстовые теги"></outline>
+<outline text="Списки"></outline>
+<outline text="Картинки"></outline>
+<outline text="Таблицы"></outline>
+</outline>
+<outline text="CSS"><outline text="Свойства"><outline text="Позиционирование"></outline>
+<outline text="Работа с текстом"></outline>
+<outline text="Работа с блоками"></outline>
+</outline>
+<outline text="Селекторы"><outline text="Классы"></outline>
+<outline text="Элементы"></outline>
+<outline text="Идентификаторы"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Фреймворки"><outline text="Laravel"><outline text="Установка Laravel"></outline>
+<outline text="Структура проекта Laravel"></outline>
+<outline text="Routing"></outline>
+<outline text="Представления"></outline>
+<outline text="Шаблоны представлений"></outline>
+<outline text="Eloquent ORM"><outline text="Модели"></outline>
+<outline text="Миграции"></outline>
+<outline text="Запросы"></outline>
+<outline text="Связи моделей"><outline text="Один-к-одному"></outline>
+<outline text="Один-ко-многим"></outline>
+<outline text="Многие-ко-многим"></outline>
+</outline>
+</outline>
+<outline text="Валидация запросов"></outline>
+<outline text="Авторизация пользователей"></outline>
+</outline>
+<outline text="React"></outline>
+<outline text="Angular"></outline>
+<outline text="Qt"><outline text="Визуальный редактор Qt"></outline>
+<outline text="Механизм слотов и сигналов"></outline>
+<outline text="События операционной системы"><outline text="Перерисовка окна"></outline>
+<outline text="Обработка нажатий клавиатуры"></outline>
+<outline text="Обработка нажатий мыши"></outline>
+</outline>
+<outline text="GUI Qt"><outline text="QLabel"></outline>
+<outline text="QButton"></outline>
+<outline text="QTimer"></outline>
+<outline text="Виджеты"></outline>
+<outline text="Графика"></outline>
+<outline text="Layouts"></outline>
+</outline>
+</outline>
+<outline text="Bootstrap"><outline text="Компоненты"></outline>
+<outline text="Сетка"></outline>
+<outline text="Шаблоны страницы"></outline>
+</outline>
+</outline>
+<outline text="Языки программирования"><outline text="Интерпретируемые и JIT компилируемые"><outline text="JavaScript"><outline text="Переменные"></outline>
+<outline text="Операции"></outline>
+<outline text="Управляющие конструкции"></outline>
+<outline text="Списки и объекты"></outline>
+<outline text="Работа с DOM"></outline>
+<outline text="Canvas"></outline>
+</outline>
+<outline text="Python"><outline text="Управляющие конструкции"><outline text="Условия"></outline>
+<outline text="Циклы"><outline text="while"><outline text="break"></outline>
+<outline text="continue"></outline>
+<outline text="Вечные циклы"></outline>
+</outline>
+<outline text="for"></outline>
+</outline>
+</outline>
+<outline text="Переменные"></outline>
+<outline text="Типы данных"><outline text="Встроенные"><outline text="Изменяемые"><outline text="list"><outline text="Добавление элементов"></outline>
+<outline text="Удаление элементов"></outline>
+<outline text="Изменение элементов"></outline>
+<outline text="Поиск"></outline>
+</outline>
+<outline text="set"></outline>
+<outline text="dict"><outline text="Добавление элементов"></outline>
+<outline text="Удаление элементов"></outline>
+<outline text="Изменение элементов"></outline>
+<outline text="Поиск"></outline>
+</outline>
+</outline>
+<outline text="Неизменяемые"><outline text="int" _note=""></outline>
+<outline text="float"></outline>
+<outline text="str"><outline text="Срезы"></outline>
+<outline text="split"></outline>
+<outline text="join"></outline>
+<outline text="lower / upper"></outline>
+<outline text="Арифметика строк"></outline>
+<outline text="Поиск и замена"></outline>
+</outline>
+<outline text="byte"></outline>
+<outline text="tuple"></outline>
+<outline text="frozen_set"></outline>
+<outline text="range"></outline>
+<outline text="boolean"></outline>
+</outline>
+</outline>
+<outline text="Пользовательские"><outline text="Классы"></outline>
+<outline text="Объекты"></outline>
+</outline>
+<outline text="Преобразования типов"></outline>
+</outline>
+<outline text="Операции"><outline text="Присваивание"></outline>
+<outline text="Арифметические"><outline text="+"></outline>
+<outline text="-"></outline>
+<outline text="*"></outline>
+<outline text="/"></outline>
+<outline text="//"></outline>
+<outline text="%"></outline>
+<outline text="длинная арифметика"></outline>
+</outline>
+<outline text="Логические"><outline text="and"></outline>
+<outline text="or"></outline>
+<outline text="not"></outline>
+</outline>
+</outline>
+<outline text="Модули"><outline text="Собственные модули"></outline>
+<outline text="Стандартная библиотека"><outline text="random"><outline text="Генерация чисел"></outline>
+<outline text="Выбор из множества"></outline>
+</outline>
+<outline text="time"></outline>
+<outline text="copy"></outline>
+<outline text="struct"></outline>
+<outline text="wave"></outline>
+<outline text="sockets"><outline text="Прием и отправка данных"></outline>
+<outline text="Соединение"></outline>
+<outline text="Кодирование данных"></outline>
+<outline text="Сериализация объектов"></outline>
+<outline text="Неблокирующие сокеты"></outline>
+</outline>
+<outline text="threading"></outline>
+<outline text="tkinter"><outline text="GUI"></outline>
+<outline text="Графика"></outline>
+<outline text="События"></outline>
+<outline text="Использование картинок"></outline>
+</outline>
+<outline text="requests"></outline>
+</outline>
+<outline text="Сторонние модули"><outline text="Поиск и установка модулей в Python"><outline text="pip"></outline>
+<outline text="github"></outline>
+<outline text="pypi.org"></outline>
+</outline>
+<outline text="pillow"><outline text="Пиксельные фильтры"></outline>
+<outline text="Работа с областями"></outline>
+</outline>
+<outline text="pyTelegramBotAPI"><outline text="Текстовые сообщения"></outline>
+<outline text="Стикеры"></outline>
+<outline text="Файлы"></outline>
+<outline text="Фотографии"></outline>
+<outline text="Привязка данных к пользователю"></outline>
+<outline text="Обработка команд"></outline>
+<outline text="Привязка обработчика к ответу"></outline>
+</outline>
+<outline text="flask"><outline text="GET параметры"></outline>
+<outline text="routing"></outline>
+<outline text="Шаблоны"></outline>
+<outline text="POST запросы"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Функции"><outline text="Пользовательские"></outline>
+<outline text="Встроенные"><outline text="min"></outline>
+<outline text="max"></outline>
+<outline text="abs"></outline>
+<outline text="sorted"></outline>
+<outline text="input"></outline>
+<outline text="print"></outline>
+</outline>
+<outline text="Генераторы"></outline>
+<outline text="Лямба-функции"></outline>
+<outline text="Декораторы"></outline>
+<outline text="Локальные и глобальные переменные"></outline>
+<outline text="Параметры"><outline text="Обязательные"></outline>
+<outline text="Необязательные"></outline>
+<outline text="Именованные"></outline>
+</outline>
+<outline text="Возвращаемые значение"></outline>
+<outline text="Рекурсия"></outline>
+</outline>
+<outline text="Файлы"><outline text="Режимы доступа"></outline>
+<outline text="Чтение"></outline>
+<outline text="Запись"></outline>
+<outline text="Виды файлов"></outline>
+</outline>
+</outline>
+<outline text="PHP"><outline text="Переменные"></outline>
+<outline text="Массивы"></outline>
+<outline text="Управляющие конструкции"></outline>
+<outline text="Вывод данных"></outline>
+<outline text="GET и POST запросы"></outline>
+<outline text="Функции"></outline>
+<outline text="Классы и объекты"></outline>
+<outline text="Cookie"></outline>
+<outline text="Сессии"></outline>
+<outline text="Работа с БД"></outline>
+</outline>
+<outline text="SQL"><outline text="DML"></outline>
+<outline text="DDL"></outline>
+</outline>
+</outline>
+<outline text="Компилируемые"><outline text="C++"><outline text="Переменные"></outline>
+<outline text="Управляющие конструкции"></outline>
+<outline text="Шаблон программы"></outline>
+<outline text="Функции"><outline text="Пользовательские"></outline>
+<outline text="Стандартные"></outline>
+</outline>
+<outline text="Ввод-вывод"></outline>
+<outline text="Файлы"></outline>
+<outline text="Встроенные типы данных"></outline>
+<outline text="Шаблоны"></outline>
+<outline text="STL"></outline>
+<outline text="Операции"><outline text="Арифметические"></outline>
+<outline text="Логические"></outline>
+<outline text="Битовые"></outline>
+<outline text="Перегрузка операторов"></outline>
+</outline>
+<outline text="Массивы"></outline>
+<outline text="Указатели"></outline>
+<outline text="Модули"></outline>
+<outline text="Библиотеки"></outline>
+<outline text="ООП"><outline text="Классы"><outline text="Свойства"></outline>
+<outline text="Методы"><outline text="Конструктор"></outline>
+<outline text="Деструктор"></outline>
+<outline text="Статические методы"></outline>
+<outline text="Виртуальные методы"></outline>
+</outline>
+</outline>
+<outline text="Объекты"></outline>
+<outline text="Инкапсуляция"></outline>
+<outline text="Наследование"></outline>
+<outline text="Полиморфизм"></outline>
+</outline>
+</outline>
+</outline>
+<outline text="Ассемблеры"></outline>
+<outline text="Изотерические"></outline>
+</outline>
+</outline>
+<outline text="СУБД"><outline text="Реляционные"><outline text="PgSQL"></outline>
+<outline text="SQLite"></outline>
+<outline text="MySQL"></outline>
+</outline>
+<outline text="Нереляционные"><outline text="MongoDB"></outline>
+<outline text="Redis"></outline>
+</outline>
+<outline text="Базы данных и СУБД"></outline>
+</outline>
+<outline text="Сетевое взаимодействие через API"><outline text="vk"></outline>
+<outline text="azure"></outline>
+<outline text="rest api"></outline>
+</outline>
+<outline text="Параллелизм и распределенные системы"><outline text="Блокчейн"></outline>
+<outline text="Многопоточность"></outline>
+</outline>
+<outline text="Парадигмы программирования"><outline text="Процедурная"></outline>
+<outline text="Объектно-ориентированная"><outline text="Классы и объекты"></outline>
+<outline text="Принципы ООП"><outline text="Инкапсуляция"></outline>
+<outline text="Наследование"></outline>
+<outline text="Полиморфизм"></outline>
+</outline>
+<outline text="Абстракция"></outline>
+</outline>
+<outline text="Функциональная"></outline>
+<outline text="Императивная"></outline>
+<outline text="Декларативная"></outline>
+</outline>
+<outline text="Архитектура ПО"><outline text="Паттерны проектирования"></outline>
+<outline text="UML"></outline>
+<outline text="MVC"><outline text="Модели"></outline>
+<outline text="Контроллеры"></outline>
+<outline text="Представления"></outline>
+</outline>
+</outline>
+<outline text="Основные виды ПО"><outline text="Настольные приложения"></outline>
+<outline text="Браузерные приложения"></outline>
+<outline text="Мобильные приложения"></outline>
+<outline text="Серверные приложения"></outline>
+<outline text="Веб-сервисы"></outline>
+<outline text="Боты"></outline>
+</outline>
+<outline text="Анализ кода"><outline text="Отладка"></outline>
+<outline text="Документирование кода"></outline>
+<outline text="Unit-test"></outline>
+<outline text="Стандарты написания кода"></outline>
+</outline>
+<outline text="Инструменты"><outline text="IDE"></outline>
+<outline text="Компилятор"></outline>
+<outline text="Интерпретатор"></outline>
+<outline text="Отладчик"></outline>
+<outline text="Редактор БД"></outline>
+</outline>
+</outline>
+<outline text="Информационная безопасность"><outline text="Криптография"></outline>
+<outline text="Стеганография"></outline>
+<outline text="Форензика"></outline>
+<outline text="Безопасность веб-сервисов"></outline>
+<outline text="Реверс-инженеринг"></outline>
+</outline>
+<outline text="Профессии в ИТ индустрии"><outline text="Исследовательская деятельность"></outline>
+<outline text="Аналитика"></outline>
+<outline text="Тестирование"></outline>
+<outline text="Внедрение"></outline>
+<outline text="Менеджмент и руководство"></outline>
+<outline text="Разработка"></outline>
+<outline text="Тестирование"></outline>
+<outline text="Анализ данных"></outline>
+</outline>
+<outline text="Дискретная математика"><outline text="Алгебра логики"></outline>
+<outline text="Конечные автоматы "></outline>
+<outline text="Теория графов"><outline text="Планарные графы"></outline>
+<outline text="Взвешенные графы"></outline>
+<outline text="Ориентированные графы"></outline>
+<outline text="Графы"></outline>
+<outline text="Связные графы"></outline>
+<outline text="Характеристики графов"><outline text="Степень вершины"></outline>
+<outline text="Радиус графа"></outline>
+<outline text="Центр графа"></outline>
+</outline>
+<outline text="Обход графа"><outline text="DFS"></outline>
+<outline text="BFS"></outline>
+</outline>
+</outline>
+<outline text="Хэширование"></outline>
+<outline text="Машина Тьюринга"></outline>
+</outline>
+<outline text="Архитектура ПК"><outline text="Основные компоненты"><outline text="CPU"><outline text="Архитектура процессора"></outline>
+</outline>
+<outline text="RAM"><outline text="Динамическая память"></outline>
+<outline text="Статическая память"></outline>
+<outline text="Стэк (память)"></outline>
+</outline>
+<outline text="SSD / HDD"></outline>
+</outline>
+<outline text="Кодирование информации"><outline text="Системы счисления"></outline>
+<outline text="Представление чисел"></outline>
+<outline text="Кодировки"></outline>
+<outline text="Кодирование графики"></outline>
+<outline text="Алгоритмы сжатия"></outline>
+<outline text="Кодирование звука"></outline>
+</outline>
+<outline text="Сети"><outline text="Модель OSI"></outline>
+<outline text="TCP/IP"></outline>
+<outline text="HTTP"></outline>
+<outline text="DNS"></outline>
+<outline text="Понятие протокола"></outline>
+</outline>
+<outline text="Архитектура фон Неймана"></outline>
+</outline>
+<outline text="Алгоритмы и структуры данных"><outline text="Классические алгоритмы"><outline text="Сортировки"><outline text="Пузырек"></outline>
+<outline text="Выборка"></outline>
+<outline text="Подсчет"></outline>
+<outline text="Быстрая сортировка"></outline>
+</outline>
+<outline text="Сжатие данных"></outline>
+<outline text="Поиск"><outline text="Бинарный поиск"></outline>
+</outline>
+<outline text="Алгоритм Евклида"></outline>
+</outline>
+<outline text="Структуры данных"><outline text="Списки"></outline>
+<outline text="Вектор"></outline>
+<outline text="Графы"><outline text="Матрица смежности"></outline>
+<outline text="Список смежности"></outline>
+</outline>
+<outline text="Деревья поиска"></outline>
+<outline text="Стэк"></outline>
+<outline text="Очереди"></outline>
+<outline text="Словари"><outline text="Хэш-таблицы"></outline>
+<outline text="Куча"></outline>
+</outline>
+</outline>
+<outline text="Понятие алгоритма"></outline>
+<outline text="Способы записи алгоритма"><outline text="Блок-схема"></outline>
+<outline text="Язык-программирования"></outline>
+<outline text="Естественный язык"></outline>
+</outline>
+</outline>
+<outline text="Искуственный интеллект"><outline text="Нейронные сети"><outline text="Распознавание лиц"></outline>
+<outline text="Распознавание речи"></outline>
+</outline>
+<outline text="Машинное обучение"></outline>
+<outline text="Системы на правилах"></outline>
+<outline text="Анализ данных"></outline>
+</outline>
+<outline text="Робототехника"><outline text="Arduino"></outline>
+<outline text="STM32"></outline>
+<outline text="Датчики"></outline>
+<outline text="Актуаторы"></outline>
+</outline>
+<outline text="Поиск информации и самообучение"><outline text="Stackoverflow"></outline>
+<outline text="Habr"></outline>
+<outline text="Ресурсы для самообучения"><outline text="Книги"></outline>
+<outline text="MOOC"></outline>
+<outline text="Видеокурсы"></outline>
+</outline>
+</outline>
+</outline>
+</body>
+</opml>
